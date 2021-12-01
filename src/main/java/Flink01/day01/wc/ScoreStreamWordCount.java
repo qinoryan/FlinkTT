@@ -33,6 +33,7 @@ public class ScoreStreamWordCount {
 
         //4.执行
         environment.execute();
+        //sq
 
     }
 }
